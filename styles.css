@@ -5,7 +5,7 @@ body {
 .card {
   width: 150px;
   height: 150px;
-  margin: 30% auto;
+  margin: 5% auto;
   background: #a53c3c;
   border-radius: 5px;
   display: flex;
